@@ -468,4 +468,8 @@ td {
   .profile-nav .pp {
     width: 100%;
   }
+  .appointment-table{
+    margin-left: 13%;
+    margin-right: 30%;
+  }
 }
