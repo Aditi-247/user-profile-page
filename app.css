@@ -472,4 +472,19 @@ td {
     margin-left: 13%;
     margin-right: 30%;
   }
+  .bio-graph-heading {
+  background: #fbc02d;
+  color: #fff;
+  text-align: left;
+  font-style: italic;
+  padding: 40px 5px;
+  padding-left: 5%;
+  border-radius: 4px 4px 0 0;
+  -webkit-border-radius: 4px 4px 0 0;
+  font-size: 35px;
+  font-weight: 100;
+}
+  input{
+    width: 30%;
+  }
 }
